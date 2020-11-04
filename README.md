@@ -1,5 +1,5 @@
 # What is DyingLightTrainer?
-DyinLightTrainer is a memory reader/writer for the game Dying Light written in C# using winforms
+DyinLightTrainer is a program for memory reading/writing for the game Dying Light written in C#
 # Requirements
 * Visual Studio
 * Dying Light
